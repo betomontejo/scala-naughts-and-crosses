@@ -1,0 +1,8 @@
+[0m[[0minfo[0m] [0m[32mTestTextSizer:[0m[0m
+[0m[[0minfo[0m] [0m[32mA naughts and crosses game[0m[0m
+[0m[[0minfo[0m] [0m[32m  A row, column or diagonal[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should declare a winner when 3 matching symbols in a line[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should declare the correct winning player[0m[0m
+[0m[[0minfo[0m] [0m[32m  - should not declare a winner when 3 symbols do not match[0m[0m
+[0m[[0minfo[0m] [0m[31m- should declare a winner when any row, column or diagaonal is won *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  <(), the Unit value> was not equal to "x" (testTextSizer.scala:44)[0m[0m
